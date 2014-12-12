@@ -1,9 +1,14 @@
-LM15SGFNZ07 library
+LM15SGFNZ07 library for fast spi bus
 -------------- 
 Email: markauskas.mindaugas at gmail.com
 URL: http://mindogas.wordpress.com/
 
 A library for interacting an arduino with a Siemens M55 LCD (LM15SGFNZ07)
+
+merge by znsoft in 2014 from Marcin Selerowski (bialasik) LM15SGFNZ07 SPI Arduino Fast Library 
+https://github.com/bialasik/LM15SGFNZ07-SPI-Fast-Driver-for-Arduino                     
+*  the 13 pin is always SCLK 
+*   and 11 pin always SDATA for very very fast SPI bus
 
 Includes:
 - Clearing LCD with base color;
