@@ -1,0 +1,9 @@
+Version 1.1.0
+
+- support for Arduino IDE 1.0.
+
+- Backwards compatibility with previous Arduino IDE.
+
+Version 1.0.0
+
+- initial release.
